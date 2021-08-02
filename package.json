@@ -1,0 +1,29 @@
+{
+  "name": "racketrick-server",
+  "version": "1.0.0",
+  "description": "An Open-Source Ed-Tech Platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KashShahzad/racketrick-server.git"
+  },
+  "keywords": [
+    "ed-tech",
+    "education",
+    "technology"
+  ],
+  "author": "Kashinnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KashShahzad/racketrick-server/issues"
+  },
+  "homepage": "https://github.com/KashShahzad/racketrick-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
